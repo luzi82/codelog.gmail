@@ -1,0 +1,4 @@
+.project
+credentials.json
+token.pickle
+venv/
